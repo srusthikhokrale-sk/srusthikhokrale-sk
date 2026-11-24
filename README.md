@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm a First Year AI Engineering Student 👋
 
-<!--
-**srusthikhokrale-sk/srusthikhokrale-sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Engineering Student at UMIT SNDT Mumbai
 
-Here are some ideas to get you started:
+💻 Learning Python Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Interested in Artificial Intelligence and Machine Learning
+
+Skills
+
+- Python
+- C Programming
+- Problem Solving
+- GitHub
+
+My Projects
+
+- Smart Calculator
+- Quiz Application
+- Number Guessing Game
+
+Goals
+
+- Improve Programming Skills
+- Build Real-World Projects
+- Learn AI & Machine Learning
